@@ -5,7 +5,7 @@ target/
 .checkstyle
 .classpath
 .project
-/.settings/
+.settings/
 /nbproject/
 .idea
 *.iml
