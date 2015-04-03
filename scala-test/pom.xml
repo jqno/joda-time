@@ -16,7 +16,7 @@
   </parent>
 
   <properties>
-    <scala.version>2.10</scala.version>
+    <scala.version>2.11</scala.version>
   </properties>
 
   <dependencies>
