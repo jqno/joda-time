@@ -9,6 +9,7 @@ target/
 /nbproject/
 .idea
 *.iml
+.cache
 
 /build/
 /lib/
